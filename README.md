@@ -2,6 +2,8 @@
 
 A repository of Cosmology and Astrophysics resources including: papers, slides, tutorials, code docs, how-to's, etc
 
+**WARNING: This is a public repo, please do not add any non-public content or be sure that the links are behind a login!**
+
 ## Repository Navigation: 
 See the directories above for the main topics which currently include:
 - **Large-Scale Structure:** For LSS related science papers across all surveys

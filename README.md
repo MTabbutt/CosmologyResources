@@ -6,7 +6,7 @@ A repository of Cosmology and Astrophysics resources including: papers, slides, 
 See the directories above for the main topics which currently include:
 - **Large-Scale Structure:** For LSS related science papers across all surveys
 - **Coding:** A general stop of coding resources including tutories, read-the-docs, install instructions, UW-Madison/DES/LSST computing, and more
-- **DES-General:** General DES resources including data release papers, Y1/Y3KP papers, and more
+- **DES-General:** General DES resources including data release papers, Y1/Y3KP papers, Deepfields, and more
 - **LSST-General:** 
 - **OtherSurveys:** 
 

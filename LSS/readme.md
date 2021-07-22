@@ -11,7 +11,7 @@ There are no sub-directories at this time.
 - Modern Cosmology by Scott Dodelson (2020)
 
 #### Review Articles:
-- **Exploiting Cross Correlations and Joint Analyses**: https://arxiv.org/pdf/1309.5388.pdf
+- Exploiting Cross Correlations and Joint Analyses: https://arxiv.org/pdf/1309.5388.pdf
 
 #### Online Resources:
 - https://www.darkenergysurvey.org/supporting-science/large-scale-structure/
